@@ -1,3 +1,6 @@
+# Advertisements
+
+This project was made in 2 days when I haven't learned anything about php frameworks. The purpose was to discover the MVC pattern in software design. I do not recommand using the project as it, cause is not secure.
 
 # How to install
 
